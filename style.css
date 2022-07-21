@@ -1,0 +1,28 @@
+.nav {
+  background-color: #333333;
+  color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-family:"Comic Sans MS", "Comic Sans", cursive;
+}
+.nav-title {
+  align-items: flex-start;
+  justify-content: left;
+}
+ul {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+}
+.btn {
+  background-color: #17a2b8;
+  color: aliceblue;
+  text-shadow: 5px;
+}
+li a {
+    text-decoration: none;
+    color: aliceblue;
+}
